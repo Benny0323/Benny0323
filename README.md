@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a thrid-year undergraduate student studying computer science at Hangzhou Dianzi University where I am advised by Prof. Ruiquan Ge and Prof. Changmiao Wang. I have a broad interest in deep learning models, with a primary focus on medical image analysis currently. I am also an enthusiastic self-learner and interested in various fields of computer science.
+I am a thrid-year undergraduate student studying computer science at [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). I have a broad interest in deep learning models, with a primary focus on medical image analysis currently. I am also an enthusiastic self-learner and interested in various fields of computer science.
 ![Benny0323 github stats](https://github-readme-stats.vercel.app/api?username=Benny0323&show_icons=true&hide_border=true&theme=catppuccin_latte&count_private=true)
 <!--
 **Benny0323/Benny0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
