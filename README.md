@@ -5,7 +5,7 @@ I have a broad interest in deep learning models, with a primary focus on Medical
 
 From Nov 2024 to Feb 2025, I was interning at [Hikvision Research](https://www.hikvision.com/cn/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy. 
 
-Starting in September 2025, I will pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, supervised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/) specialized in **SAM & Diffusion Model-Based CT Metal Artifact Reduction**.
+Starting in September 2025, I will pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, supervised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/) specialized in **Deep Learning-Based CT Metal Artifact Reduction**.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benny0323&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
