@@ -1,11 +1,5 @@
 ### Hi there 👋
-I recently graduated with a Bachelor’s degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm) where I am advised by [Prof. Ruiquan Ge](https://faculty.hdu.edu.cn/jsjxy/grq/main.htm) and [Prof. Changmiao Wang](https://www.sribd.cn/teacher/505). 
-
-I have a broad interest in deep learning models, with a primary focus on Medical Image Analysis & Gnerative AI Models. I am also an enthusiastic self-learner and interested in various fields of computer science. 
-
-From Nov 2024 to Feb 2025, I was interning at [Hikvision Research](https://www.hikvision.com/en/) Institute, focusing on Deep Learning-Based 3D Depth From Focus for Extended Depth-of-Field Microscopy. 
-
-Starting in September 2025, I will pursue my master's degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, and also with the [Key Laboratory of New Generation Artificial Intelligence Technology and Its Interdisciplinary Applications (Southeast University)](https://aiia.seu.edu.cn), Ministry of Education, China, supervised by [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/) specialized in **Deep Learning-Based CT Metal Artifact Reduction**.
+I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanjing, specializing in Deep Learning-Based CT Metal Artifact Reduction under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Medical Image Analysis and Generative AI Models, and I am also an enthusiastic self-learner with diverse interests in computer science.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benny0323&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
