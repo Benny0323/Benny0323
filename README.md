@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanking, specializing in Deep Learning-Based CT Metal Artifact Reduction under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Medical Image Analysis and Generative AI Models, and I am also an enthusiastic self-learner with diverse interests in computer science.
+I am currently pursuing my master’s degree at the Laboratory of Image Science and Technology, School of Computer Science and Engineering, [Southeast University](https://www.seu.edu.cn), Nanking, under the supervision of [Prof. Yikun Zhang](https://cs.seu.edu.cn/yikun/). I have a broad interest in deep learning models, particularly in Medical Image Analysis, Generative AI, and Multi-modal Learning, and I am also an enthusiastic self-learner with diverse interests in computer science.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Benny0323&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
